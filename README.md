@@ -3,6 +3,11 @@
 [![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/linkindLink.png?raw=true)](https://www.linkedin.com/in/iv%C3%A1n-gonzalez-robles-957491275/)
 [![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/twitterLink.png?raw=true)](https://twitter.com/ivang2204)
 
+### Languages
+
+[Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/jsLogo.png?raw=true) [Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/reactLogo.png?raw=true) [Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/rubyLogo.png?raw=true)
+
+
 *Remote software developer ready for new oportunities.*  
 
 I like plant based food and I'm a guitarist on my spare time.
