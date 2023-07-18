@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 <!--
 **ivangonzalez224/ivangonzalez224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
