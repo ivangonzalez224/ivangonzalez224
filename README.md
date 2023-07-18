@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/linkindLink.png?raw=true)
-[![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/linkindLink.png?raw=true))](https://www.linkedin.com/in/iv%C3%A1n-gonzalez-robles-957491275/)
+[![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/linkindLink.png?raw=true)](https://www.linkedin.com/in/iv%C3%A1n-gonzalez-robles-957491275/)
 
 <!--
 **ivangonzalez224/ivangonzalez224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
