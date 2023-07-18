@@ -6,6 +6,7 @@
 Remote software developer ready for new oportunities.
 
 I like plant based food and I'm a guitarist on my spare time.
+
 You can check out my portfolio [here](https://ivangonzalez224.github.io/portfolio.io/)
 <!--
 **ivangonzalez224/ivangonzalez224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
