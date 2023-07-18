@@ -3,7 +3,7 @@
 [![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/linkindLink.png?raw=true)](https://www.linkedin.com/in/iv%C3%A1n-gonzalez-robles-957491275/)
 [![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/twitterLink.png?raw=true)](https://twitter.com/ivang2204)
 
-Remote software developer ready for new oportunities.
+Remote software developer ready for new oportunities.  
 
 I like plant based food and I'm a guitarist on my spare time.
 
