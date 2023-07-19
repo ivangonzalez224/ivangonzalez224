@@ -10,8 +10,8 @@
 *Remote software developer ready for new oportunities.*  
 
 ### A little bit more about me ...
-- I am honing my JavaScript skills and picking up React
-- I like plant based food and I'm a guitarist on my spare time.
+- I am honing my JavaScript skills and picking up React.
+- I'm a plant based eater and a guitarist on my spare time.
 
 You can check out my portfolio [here](https://ivangonzalez224.github.io/portfolio.io/)  
 <!--
