@@ -5,7 +5,7 @@
 
 ### Languages
 
-![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/jsLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/reactLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/rubyLogo.png?raw=true) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/cssLogo.png)
+![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/jsLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/reactLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/rubyLogo.png?raw=true) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/cssLogo.png) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/bootstrapLogo.png)
 
 *Remote software developer ready for new oportunities.*  
 
