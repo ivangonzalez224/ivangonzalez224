@@ -11,7 +11,7 @@
 
 ### Back-end
 
-![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/rubyLogo.png?raw=true) 
+![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/rubyLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/railsLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/postgreSQLLogo.png?raw=true) 
 
 ### Other Tools
 *Remote software developer ready for new oportunities.*  
