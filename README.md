@@ -7,7 +7,7 @@
 
 ### Front-end
 
-![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/jsLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/reactLogo.png?raw=true) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/cssLogo.png) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/bootstrapLogo.png)
+![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/jsLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/reactLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/typeScriptLogo.png?raw=true) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/cssLogo.png) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/bootstrapLogo.png) ![Foo](https://raw.githubusercontent.com/ivangonzalez224/ivangonzalez224/main/tailwindLogo.png)
 
 ### Back-end
 
