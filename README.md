@@ -14,6 +14,9 @@
 ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/rubyLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/railsLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/postgreSQLLogo.png?raw=true) 
 
 ### Other Tools
+
+![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/gitLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/jestLogo.png?raw=true) ![Foo](https://github.com/ivangonzalez224/ivangonzalez224/blob/main/viteLogo.png?raw=true)
+
 *Remote software developer ready for new oportunities.*  
 
 ### A little bit more about me ...
